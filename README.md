@@ -1,2 +1,2 @@
 # VISOR-B-MUF-NC
-Visor A del caso Muffins con Claude
+Visor B del caso Muffins con Claude
